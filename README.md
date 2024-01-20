@@ -24,4 +24,5 @@
         WHEN "inDelivery" = true THEN 1 
   ELSE 0 END AS status 
       FROM "Orders";
+
 Скриншот результата запроса database1.png
