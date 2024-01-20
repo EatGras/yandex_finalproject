@@ -25,4 +25,4 @@
   ELSE 0 END AS status 
       FROM "Orders";
 
-Скриншот результата запроса database1.png
+Скриншот результата запроса database2.png
